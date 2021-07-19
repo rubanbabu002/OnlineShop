@@ -1,0 +1,10 @@
+C:\Users\vijaya lakshmi\Desktop\MVC\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\vijaya lakshmi\Desktop\MVC\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\vijaya lakshmi\Desktop\MVC\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\vijaya lakshmi\Desktop\MVC\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\vijaya lakshmi\Desktop\MVC\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vijaya lakshmi\Desktop\MVC\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\vijaya lakshmi\Desktop\MVC\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vijaya lakshmi\Desktop\MVC\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\vijaya lakshmi\Desktop\MVC\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\vijaya lakshmi\Desktop\MVC\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
